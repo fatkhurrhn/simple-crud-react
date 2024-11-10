@@ -29,7 +29,7 @@ const App = () => {
 
   return (
     <div>
-      <h1>Simple CRUD App</h1>
+      <h1>Simple CRUD App with react</h1>
       <form onSubmit={handleSubmit}>
         <input
           type="text"
